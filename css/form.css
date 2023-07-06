@@ -1,0 +1,38 @@
+.border{
+    background-color: rgb(168, 226, 53) ;
+    width: 40%;
+    height: 90px;
+    margin: auto;
+    
+}
+.about{
+    text-align: center;
+    padding: 10px;
+}
+.about1{
+    text-align: center;
+    padding: 10px;
+}
+.email1{
+    text-align: center;
+}
+.gender{
+    text-align: center;
+    padding: 15px;
+}
+.hobby{
+    text-align: center;
+}
+.border{
+    padding: 270px 150px 1500px;
+}
+.nation{
+    text-align: center;
+    padding: 15px;
+}
+.heading{
+    margin-left: 200px;
+}
+.tarea{
+    padding: 15px;
+}

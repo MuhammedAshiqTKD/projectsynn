@@ -1,0 +1,104 @@
+.banner{
+    background-image: url(/images/SL-092619-23740-28.jpg);
+    background-position: center;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    padding: 100px;
+}
+.main{
+    margin: -10px;
+}
+.heading{
+   font-size: 80px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   letter-spacing: 15px;
+   margin-bottom: 33px;
+   
+}
+.btn{
+    background-color: transparent;
+    border: 2px solid white;
+    color: rgb(255, 213, 213);
+    padding: 8px 26px;
+    margin-top: -10px;
+    border-radius: 6px;    
+}
+.heading-two{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    letter-spacing: 15px;
+}
+.images{
+    text-align: center;
+}
+.one{
+    width: 17.6%;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 4px #898787;
+}
+.two{
+    width: 17.6%;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 4px #898787;
+}
+.three{
+    width: 17.6%;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 4px #898787;
+}
+.two-para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 40px 40px 40px;
+    font-size: large;
+    letter-spacing: 2px;
+    margin: 20px;
+
+}
+.para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 40px 40px 40px;
+    font-size: large;
+    letter-spacing: 2px;
+    margin: 20px 20px;
+
+}
+.four{
+    width: 17.6%;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 4px #898787;
+}
+.five{
+    width: 17.6%;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 4px #898787;
+}
+.btn1{
+    background-color: transparent;
+    border: 2px solid white;
+    color: rgb(255, 213, 213);
+    padding: 8px 26px;
+    margin-top: 40px;
+    border-radius: 6px;
+    margin-left: 6px;
+}
+.button3{
+    background-color: black;
+    border: 2px solid white;
+    color: rgb(255, 213, 213);
+    padding: 8px 26px;
+    margin-top: 40px;
+    border-radius: 6px;
+    margin-left: 696px;
+    margin-bottom: 750px;
+}
